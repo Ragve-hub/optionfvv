@@ -1,1 +1,1 @@
-Исходники optionfvv вытащенные на скорую руку через Ilspy
+source optionfvv 2.5_by Victor Fateev . Instrument Ilspy 
